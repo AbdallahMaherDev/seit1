@@ -8,7 +8,7 @@ This is my first simple website, created in 2023. I hope you enjoy exploring it!
 - Clean and minimal layout.  
 
 🚀 **Live Demo**  
-Check it out live at [https://seit1.netlify.app/](https://seit1.netlify.app/).  
+Check it out live at (https://splendorous-starburst-2bd2e0.netlify.app/)
 
 📚 **Technologies Used**  
 - HTML  
